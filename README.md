@@ -6,7 +6,7 @@ low key gestalkt met verzoekjes om webapplicaties te bouwen. Je vriend Constanti
 dat je een applicatie voor hem maakt die feitjes over landen kan ophalen, zodat hij cool kan doen 
 met zijn wereldse kennis op borrels en verjaardagen.
 
-![screenshot](./assets/screenshot.png)
+###### ![screenshot](./assets/screenshot.png)
 
 Je gaat dit doen met behulp van de REST Counties API. De documentatie over de verschillende endpoints
 kun je [hier](https://restcountries.eu/#api-endpoints-language) vinden. 

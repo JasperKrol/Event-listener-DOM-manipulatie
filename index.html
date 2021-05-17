@@ -2,9 +2,20 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>Country Information</title>
+    <link rel="stylesheet" href="styles.css" type="text/css" />
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
 </head>
 <body>
-
+<div>
+    <h1>Let's search some country information</h1>
+    <input type="text" id="search-input">
+    <button id="search-button">Search</button>
+    <p id="error-field"></p>
+    <img class="image" id="flag-image" />
+    <h2 id="country-name"></h2>
+    <p id="country-info"></p>
+</div>
+<script src="main.js"></script>
 </body>
 </html>
